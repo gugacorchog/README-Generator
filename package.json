@@ -1,0 +1,15 @@
+{
+  "name": "readme-node-js",
+  "version": "1.0.0",
+  "description": "## Description: A polished GitHub profile is an important part of your public identity as a developer. Why? For one thing, it will most likely be the first place that potential employers look to evaluate your skills and professionalism. And it also allows you to connect with and showcase your work to other developers, which can lead to interesting collaborations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
