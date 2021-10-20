@@ -1,15 +1,15 @@
-# |<Professional README Generator>|
-    -----------------------------
+#  **Professional README Generator**
+    
 
-##  | Description |
+## Description |
 
-** AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project **
+**AS A developer**
+*I WANT a README generator*
+**SO THAT I can quickly create a professional README for a new project**
 
 - I have learned what's the importance of Professional README file
 
-##  | Table of Contents | 
+## Table of Contents | 
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,7 +18,7 @@ SO THAT I can quickly create a professional README for a new project **
 
 
 
-## | Installation |
+## Installation |
 
 ** What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. **
 
