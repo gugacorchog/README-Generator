@@ -36,5 +36,5 @@ node index.js
 Douglas Chan 
 
 ## Question
-Questions? Let me know:[E-mail](mailto:gugacorchog@gmail.com)
-                       [GitHub](mailto:https://github.com/gugacorchog)    
+Questions? Let me know:  [E-mail](mailto:gugacorchog@gmail.com)
+                      
