@@ -36,4 +36,4 @@ node index.js
 Douglas Chan 
 
 ## Question
-[Gustavo Vas](mailto:gugacorchog@gmail.com)
+Questions? Let me know:[E-mail, GitHub](mailto:gugacorchog@gmail.com, https://github.com/gugacorchog)
