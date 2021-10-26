@@ -1,5 +1,5 @@
 {
-  "name": "readme-node-js",
+  "name": "readme-node",
   "version": "1.0.0",
   "description": "## Description: A polished GitHub profile is an important part of your public identity as a developer. Why? For one thing, it will most likely be the first place that potential employers look to evaluate your skills and professionalism. And it also allows you to connect with and showcase your work to other developers, which can lead to interesting collaborations.",
   "main": "index.js",
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gugacorchog/README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gugacorchog/README-Generator/issues"
+  },
+  "homepage": "https://github.com/gugacorchog/README-Generator#readme"
 }
