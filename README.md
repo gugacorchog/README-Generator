@@ -13,7 +13,7 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution](#contribution)
+- [Contributing](#contributing)
 - [Question](#question) 
 - [UserName](#username)
 - [License](#license)
@@ -22,17 +22,18 @@
 
 ## Installation
 
-** Npm init
+Npm init
 
-Npm install inquirer **
+Npm install inquirer 
 
 ## Usage
+
 Run the following command at th root of your project and answer the prompted questions:
 
 node index.js
 
-## How to Contribute
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-## Tests
-Go the extra mile and write tests for your application. Then provide examples on how to run them her.
-[object Object][object Object]Hello WorldHello World
+## Contributing
+Douglas Chan 
+
+## Question
+[Gustavo Vas](mailto:gugacorchog@gmail.com)
