@@ -1,7 +1,7 @@
 #  **Professional README Generator**
     
 
-<video src='https://github.com/gugacorchog/README-Generator/blob/main/src/demo.mov'>
+## Demo
 
 ## Description 
 
