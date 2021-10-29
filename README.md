@@ -3,7 +3,7 @@
 
 ## Demo
 
-[![Screenshot  Video](/src/demo.mov)]
+![Demo](./src.demo.mov)
 
 ## Description 
 
