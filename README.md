@@ -3,7 +3,10 @@
 
 ## Demo
 
-![Demo](./src.demo.mov)
+[![Demo]({image-url})]({https://github.com/gugacorchog/README-Generator/blob/main/src/demo.mov} "Demo")
+
+
+![screenshot](https://github.com/gugacorchog/README-Generator/blob/main/assets/screenshot.jpg)
 
 ## Description 
 
