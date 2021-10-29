@@ -3,7 +3,7 @@
 
 ## Demo
 
-[![Screenshot  Video](/src/demo.git.mov)]
+[![Screenshot  Video](README-generator/src/demo.git.mov)]
 
 ## Description 
 
