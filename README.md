@@ -1,6 +1,6 @@
 #  **Professional README Generator**
     
-    
+
 Screenshot:
 
 ![screenshot](https://github.com/gugacorchog/README-Generator/blob/main/assets/screenshot.jpg)
@@ -19,9 +19,6 @@ Screenshot:
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Question](#question) 
-- [UserName](#username)
-- [License](#license)
-- [Tests](#tests)
  
 
 ## Installation
