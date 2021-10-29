@@ -1,10 +1,12 @@
 #  **Professional README Generator**
     
 
-## Demo
 
-[![Demo]({image-url})]({https://github.com/gugacorchog/README-Generator/blob/main/src/demo.mov} "Demo")
 
+Demo:
+
+
+Screenshot:
 
 ![screenshot](https://github.com/gugacorchog/README-Generator/blob/main/assets/screenshot.jpg)
 
