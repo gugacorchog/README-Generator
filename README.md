@@ -3,7 +3,7 @@
 
 ## Demo
 
-[![Screenshot  Video](README-generator/src/demo.mov)]
+[![Screenshot  Video](../../src/demo.mov)]
 
 ## Description 
 
