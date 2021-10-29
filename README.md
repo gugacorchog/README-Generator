@@ -1,11 +1,6 @@
 #  **Professional README Generator**
     
-
-
-
-Demo:
-
-
+    
 Screenshot:
 
 ![screenshot](https://github.com/gugacorchog/README-Generator/blob/main/assets/screenshot.jpg)
