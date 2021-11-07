@@ -1,6 +1,8 @@
 
 
 ![example workflow](https://img.shields.io/badge/LICENSE-MIT-RED)
+![example workflow](https://img.shields.io/github/repo-size/gugacorchog/README-Generator)
+![example workflow](https://img.shields.io/github/languages/count/gugacorchog/README-Generator) 
 
 
 #  **Professional README Generator**
